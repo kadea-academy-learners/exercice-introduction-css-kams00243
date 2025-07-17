@@ -1,3 +1,56 @@
 
+.texte-titre{
+    text-align: center; 
+    font-size: 40px; 
+    color: rgb(6, 5, 5); 
+}
+.texte-titre2{ text-align: center;
+}
 
-
+.figure{
+    width: 100%;
+    text-align: center;
+     background-color: white;
+     
+}
+.citattion{
+    text-align: center;
+}
+.paragraphe{
+     text-align: center;
+    }
+.grand{
+    font-weight: bold;
+}
+.date{
+    text-align: center;
+}
+.couleur{
+    background-color: rgb(212, 214, 215);
+}
+.citation2{
+    padding: 0 30%;
+}
+.auteur{
+    color: rgb(10, 10, 10);
+    padding: 0 30%;
+}
+.pied{
+    text-align: center;
+    font-weight: bold;
+}
+.home{
+    text-decoration: none;
+}
+.acolade{
+    font-family: 'Times New Roman', Times, serif;
+     font-size: 16px;
+     text-align: justify;
+    }
+    .main{
+        width: 100%;
+        margin: 0 auto;
+    }
+ .time-line{
+    padding: 0 30%;
+ }   
